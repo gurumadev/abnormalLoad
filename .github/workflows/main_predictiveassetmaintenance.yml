@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'predictiveassetmaintenance'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_93b9f62c79bf4486b55965167550ee3b }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_fc60666fd63048a7bba51a2e7fcac632 }}
